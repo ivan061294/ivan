@@ -31,6 +31,7 @@ public class controlador implements ActionListener{
     {
         view.setTitle("MVC Multiplicr");
         view.setLocationRelativeTo(null);
+        //
     }
 
     public void actionPerformed(ActionEvent e)
